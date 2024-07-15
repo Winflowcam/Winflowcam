@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Winflow.cam</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Winflow.cam</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Servizi</a></li>
+                <li><a href="#contact">Contatti</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <img src="images/winflowcam.jpg" alt="Winflow.cam" class="main-image">
+            <p><strong>Email:</strong> winflowcam@gmail.com</p>
+            <p><strong>Instagram:</strong> <a href="https://www.instagram.com/winflow.cam">@winflow.cam</a></p>
+            <p><a href="https://www.instagram.com/winflow.cam" class="follow-button">Follow</a></p>
+        </section>
+        <section id="services">
+            <h2>Servizi</h2>
+            <div class="service-item">
+                <h3>Video Maker</h3>
+                <p>Produzione di video professionali per ogni esigenza, dai reel Instagram ai video promozionali e pubblicitari.</p>
+            </div>
+            <div class="service-item">
+                <h3>Gestione Social</h3>
+                <p>Pianificazione e gestione delle tue piattaforme social con strategie commerciali su misura.</p>
+            </div>
+            <div class="service-item">
+                <h3>Influencer Marketing</h3>
+                <p>Collaborazioni con influencer per test e recensioni prodotti, aumentando la tua visibilità e credibilità online.</p>
+            </div>
+            <p>Contattaci per far crescere la tua presenza online! 📈🚀</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Winflow.cam</p>
+    </footer>
+</body>
+</html>
